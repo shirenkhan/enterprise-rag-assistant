@@ -1,19 +1,19 @@
 # Enterprise RAG Assistant
 
-An enterprise-focused Retrieval-Augmented Generation (RAG) application designed to help users retrieve relevant information from knowledge documents using AI.
+An enterprise-focused AI knowledge assistant using Retrieval-Augmented Generation (RAG) to retrieve relevant information from documents and generate context-aware responses.
 
 ## Overview
 
-This project demonstrates an approach to building an AI-powered knowledge assistant that combines document processing, semantic retrieval, and Large Language Models (LLMs).
+This project demonstrates an approach to building AI-powered enterprise knowledge management solutions using Python, LLMs, document processing, and semantic search.
 
 ## Key Features
 
 - Document ingestion and text extraction
 - Text chunking and embedding generation
-- Semantic search and retrieval
-- Context-aware AI responses
-- Source-grounded answer generation
-- Configurable LLM integration
+- Semantic search and information retrieval
+- LLM-powered response generation
+- Context-aware answers grounded in retrieved information
+- Source reference support
 
 ## Technology Stack
 
@@ -26,20 +26,27 @@ This project demonstrates an approach to building an AI-powered knowledge assist
 ## Architecture
 
 1. Upload and process knowledge documents.
-2. Split documents into manageable text chunks.
-3. Generate embeddings.
-4. Retrieve relevant content based on user queries.
+2. Extract and divide content into smaller chunks.
+3. Generate embeddings for document content.
+4. Retrieve relevant information based on user queries.
 5. Pass retrieved context to an LLM.
-6. Generate context-aware responses with source references.
+6. Generate responses based on the available context.
 
-## Project Status
+## Project Goals
 
-Initial portfolio project. Implementation and technical documentation will be added incrementally.
+- Explore practical enterprise RAG architecture.
+- Demonstrate AI-powered knowledge retrieval.
+- Apply secure and scalable AI integration patterns.
+- Build a foundation for intelligent enterprise automation.
 
 ## Author
 
-Shirin Khan
+**Shirin Khan**
 
 Forward Deployed Engineer | AI Solutions Architect
 
-[LinkedIn](https://www.linkedin.com/in/shirin-khan62/)
+[LinkedIn Profile](https://www.linkedin.com/in/shirin-khan62/)
+
+---
+
+*Building secure, intelligent, and scalable enterprise AI solutions.*
